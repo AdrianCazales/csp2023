@@ -1,0 +1,49 @@
+body{
+  background-color:#1c7293;
+}
+
+
+h1{
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+  text-align: center;
+  text-decoration: underline;
+  border: 4px solid black; 
+}
+
+h4{
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+  border: 4px solid #209cac;
+  margin: 0px 1200px 0px 0px;
+}
+
+.firstDiv{
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+  border: 4px solid #209cac;
+  margin: 0px 1200px 0px 0px;
+}
+
+img{
+width: 420px;
+}
+.secondDiv{
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+  margin: 0px 0px 0px 710px;
+  margin-top: -800px;
+  
+}
+p {
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+}
+img{
+  width: 400px;
+}

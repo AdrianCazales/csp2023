@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+   font-family: 'DogicaPixelRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+h1{
+  font-family: 'DogicaPixelRegular';
+   font-weight: normal;
+   font-style: normal;
+  border: 4px solid black;
+}
+body{
+  background-color: #cfdbd5;
+} 
+.firstDiv{
+  background-color: #a4c3b2;
+  border: 2px dashed black;
+  font-weight: bold;
+  text-align: center;
+  /* top, right, bottom, left*/
+margin: 300px 300px 30px 300px;
+
+}
+img{
+  margin: 0px 300px 0px 835px;
+  border: 6px dashed #80aa7d
+}
+p {
+   font-family: 'DogicaPixelRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+.
